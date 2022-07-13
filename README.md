@@ -1,5 +1,5 @@
 # ewmsPHPcollege
-ewms project on php (http://www.ewms.tk) college final project
+ewms project on php (http://www.ewms.co.il) college final project
 
 
 ![EWMS.TK](https://i.imgur.com/qJcdwIz.png)
