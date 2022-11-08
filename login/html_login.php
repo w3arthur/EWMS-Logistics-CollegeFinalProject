@@ -38,7 +38,7 @@ sessionSet('tries', $tries);
             <a href="#register" class="indigo-text text-darken-4 flow-text">הרשמה למערכת</a>
           </li>
           <li class="tab col s6">
-            <a href="#login" class="active indigo-text text-darken-4 flow-text">התחברות למערכת</a>
+            <a href="#login" class="active indigo-text text-darken-4 flow-text disabled">התחברות למערכת</a>
           </li>
         </ul>
         <div id="login" class="col s12 ">
@@ -57,9 +57,9 @@ sessionSet('tries', $tries);
                
                         <div id="login_feedback"></div>
                 
-                        <div style="min-height:40px;"><?php button('send_login', 'התחברות למערכת','onclick="login()" style="position: relative;"', 'library_add'); ?></div>
+                        <div style="min-height:40px;"><?php button('send_login', 'login','onclick="login()" style="position: relative;"', 'library_add'); ?></div>
                         
-                        <br /> <br /> 
+                        <br />
                         <div style="min-height:40px;" class="center-align"><a href="?project2020" class="btn" style="width:100%">
                             
                             כניסה ישירה עבור בוחני הפרויירט 
