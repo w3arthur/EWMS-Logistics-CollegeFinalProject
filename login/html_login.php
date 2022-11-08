@@ -62,13 +62,21 @@ sessionSet('tries', $tries);
                         <br /> <br /> 
                         <div style="min-height:40px;" class="center-align"><a href="?project2020" class="btn" style="width:100%">
                             
-                            כניסה עבור בוחני פרויירט 2020
+                            כניסה ישירה עבור בוחני הפרויירט 
                             <i  class="material-icons prefix">thumb_up</i>
                             
                             </a></div>
                          
                 
                     </form>
+                    <br>
+
+                    <iframe id="youtube" width="100%" height="auto" style="aspect-ratio: 16/9;width: 100%; min-height: 280px;max-height: 560px;"src="https://www.youtube.com/embed/J3L9g82us1g?widget_referrer=ewms.co.il&autoplay=1&mute=1&fs=0&color=white&iv_load_policy=3&enablejsapi=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+
+                    <br>
+                    <br>
+                    <br>
+                    <br>
                 </div><?php row3cols_end(8,6); ?><!-- page row end//--> 
                 
             </div>
